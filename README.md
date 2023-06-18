@@ -13,8 +13,7 @@
 |W04|Computational Cognitive Science (1/2): Basics|送分/8|
 |W05|Computational Cognitive Science (2/2): Advanced|8/16|
 |W06|國慶日放假|無作業|
-|W07|Computational Cognitive Neuroscience (1/3): Modeling principles & canonical neural
-computation|10/10|
+|W07|Computational Cognitive Neuroscience (1/3): Modeling principles & canonical neural computation|10/10|
 |W08|Computational Cognitive Neuroscience (2/3): Neural Networks|7/8|
 |W09|Computational Cognitive Neuroscience (3/3): Learning & Memory|8/8|
 |W10|Deep-learning Neural Networks (1/4): Fully-Connected Multilayer Perceptron (MLP) |8/8|
